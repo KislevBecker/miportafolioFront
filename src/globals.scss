@@ -1,0 +1,24 @@
+// Override default variables before the import
+$body-bg: $prim1;
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
+
+
+/* colors */
+
+.prim1{
+    color: #8E9AAF;
+  }
+  .prim2{
+      color: #CBC0D3;
+  }
+  .prim3{
+      color: #EFD3D7;
+  }
+  .prim4{
+      color: #FEEAFA;
+  }
+  .prim5{
+      color: #DEE2FF;
+  }

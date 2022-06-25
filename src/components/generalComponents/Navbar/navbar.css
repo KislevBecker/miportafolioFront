@@ -1,0 +1,27 @@
+.img-small{
+    height: 4rem;
+}
+
+
+.bg-light{
+ background-color: #8E9AAF !important;
+}
+
+
+/* colors */
+
+.prim1{
+  color: #8E9AAF;
+}
+.prim2{
+    color: #CBC0D3;
+}
+.prim3{
+    color: #EFD3D7;
+}
+.prim4{
+    color: #FEEAFA;
+}
+.prim5{
+    color: #DEE2FF;
+}

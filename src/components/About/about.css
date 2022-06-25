@@ -1,0 +1,48 @@
+.img-bg-1{
+    background-image: url("../../images/bg.png");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
+/* .fa-facebook-f, .fa-instagram, .fa-youtube, .fa-twitter{
+    font-size: 2rem;
+} */
+
+.btn-contact{
+    border-radius: 50px !important;
+    background-color: #CBC0D3 !important;
+    /* color: #8E9AAF !important; */
+}
+
+.shadow{
+    box-shadow: -1px 26px 43px 0px rgba(119,130,148,1);
+    -webkit-box-shadow: -1px 26px 43px 0px rgba(119,130,148,1);
+    -moz-box-shadow: -1px 26px 43px 0px rgba(119,130,148,1);
+}
+
+.avatar{
+    border-radius: 50%;
+    width: 21rem;
+    position: absolute;
+    top: 11rem;
+}
+
+.mspecial{
+    margin-top: 7rem !important;
+}
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .avatar {
+        border-radius: 50%;
+        width: 3rem;
+        position: absolute;
+        top: 3.5rem;
+        right: 2rem;
+    }
+  }
+

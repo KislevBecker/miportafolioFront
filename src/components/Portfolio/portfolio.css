@@ -1,0 +1,27 @@
+.img-contenedor:hover img {
+    /* -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25); */
+    -webkit-transform:rotate(25deg);
+  -moz-transform: rotate(25deg);
+  -ms-transform: rotate(25deg);
+  -o-transform: rotate(25deg);
+  transform: rotate(25deg);
+}
+
+.border-card-circle{
+    border-radius: 4rem !important;
+}
+
+.shadow-card{
+    /* box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; */
+    box-shadow: -1px 9px 19px 0px rgba(190,162,166,1);
+-webkit-box-shadow: -1px 9px 19px 0px rgba(190,162,166,1);
+-moz-box-shadow: -1px 9px 19px 0px rgba(190,162,166,1);
+}
+
+.bg-myprojects{
+    background-color: #EFD3D7;
+}
